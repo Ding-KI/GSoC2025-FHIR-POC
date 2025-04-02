@@ -122,18 +122,6 @@ The tool includes basic error handling for:
 - Invalid FHIR resource structures
 - Date format issues
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Commit your changes
-4. Push to the branch
-5. Create a Pull Request
-
-## License
-
-[Your License Here]
-
 ## Contact
 
-[Your Contact Information]
+ding.xiao.apply@gmail.com
