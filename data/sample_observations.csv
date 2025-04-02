@@ -1,0 +1,4 @@
+id,patient_id,observation_date,code,code_system,display,value,unit
+O001,P001,2023-01-15,8480-6,http://loinc.org,Systolic blood pressure,120,mmHg
+O002,P001,2023-01-15,8462-4,http://loinc.org,Diastolic blood pressure,80,mmHg
+O003,P002,2023-02-20,8302-2,http://loinc.org,Height,165,cm
